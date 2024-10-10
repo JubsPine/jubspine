@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu perfil GitHub!
 
-<!--
-**JubsPine/jubspine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com experiência em APIs, automação de processos, desenvolvimento mobile, e integração de sistemas corporativos. Trabalho com diversas tecnologias, incluindo Node.js, Python, Kotlin, e frameworks para integração de sistemas como Nginx e SharePoint.
 
-Here are some ideas to get you started:
+Atualmente, estudo Gestão de Tecnologia da Informação na FATEC de Itu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais Projetos 🚀
+
+- **API de Otimização de Toras**: Cálculos de cortes de madeira baseados em cenários de preço, restrições de comprimento e circunferência.
+- **TecaFlow Mobile**: Aplicativo Android que permite sincronização offline de dados de campo, com cálculos para otimizar a coleta de madeira.
+- **Integração MFA para Tableau Cloud**: Solução desenvolvida para melhorar a segurança através da integração com Twilio Verify e SendGrid.
+
+## Tecnologias 🔧
+- **Backend**: Node.js, Python
+- **Mobile**: Kotlin, Jetpack Compose
+- **Infraestrutura**: Nginx, Docker, IIS, Azure AD, ADFS
+- **Banco de Dados**: SQL Server, integração com APIs
+- **Automação e Integração**: SharePoint, Twilio, SendGrid
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/júlia-pinheiro)
+- Atualmente, estou aprimorando minhas habilidades com cursos na [Udemy Business](https://www.udemy.com/).
+
+Estou sempre aberto a novas oportunidades e projetos desafiadores. Sinta-se à vontade para explorar meus repositórios e colaborar!
