@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu perfil GitHub!
 
-Sou desenvolvedor com experiência em APIs, automação de processos, desenvolvimento mobile, e integração de sistemas corporativos. Trabalho com diversas tecnologias, incluindo Node.js, Python, Kotlin, e frameworks para integração de sistemas como Nginx e SharePoint.
+Sou desenvolvedora com experiência em APIs, automação de processos, desenvolvimento mobile e integração de sistemas corporativos. Trabalho com diversas tecnologias, incluindo Node.js, Python, Kotlin, e frameworks para integração de sistemas como Nginx.
 
 Atualmente, estudo Gestão de Tecnologia da Informação na FATEC de Itu.
 
@@ -21,4 +21,4 @@ Atualmente, estudo Gestão de Tecnologia da Informação na FATEC de Itu.
 - [LinkedIn](https://www.linkedin.com/in/júlia-pinheiro)
 - Atualmente, estou aprimorando minhas habilidades com cursos na [Udemy Business](https://www.udemy.com/).
 
-Estou sempre aberto a novas oportunidades e projetos desafiadores. Sinta-se à vontade para explorar meus repositórios e colaborar!
+Estou sempre aberta a novas oportunidades e projetos desafiadores. Sinta-se à vontade para explorar meus repositórios e colaborar!
